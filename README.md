@@ -1,3 +1,3 @@
 ## HASIL
 
-![Screenshot](screenshot full page.png)
+![Screenshot](screenshot-full-page.png)
